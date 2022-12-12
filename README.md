@@ -1,4 +1,4 @@
-# SHEYXP
+# SHEYXP - DEVELOPER PORTFOLIO
 
 <div style="display: flex; flex-flow: column wrap; justify-content: center; align-items: center; margin: 0 auto; max-width:500px;">
 <img src="assets/img/favicon.png" style="width: 250px; height: 250px; border-radius: 50%;">
