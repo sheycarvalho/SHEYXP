@@ -23,5 +23,3 @@ Thank you for visiting my profile 💜
 I'm willing to help anyone who needs a hand in their projects 💁 
 
 *Developed by Sheyenne Carvalho - 2022*
-
-[⬆ Voltar ao topo](#sheyxp)<br>
