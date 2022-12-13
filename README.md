@@ -1,3 +1,6 @@
+https://img.shields.io/badge/license-MIT-blueviolet
+https://img.shields.io/badge/html-5-blueviolet
+
 # SHEYXP - PORTFOLIO
 
 <div style="display: flex; flex-flow: column wrap; justify-content: center; align-items: center; margin: 0 auto; max-width:500px;">
