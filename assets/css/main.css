@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background: rgb(223,103,140);
+  
   font-size: 14px;
   font-weight: 400;
   font-family: "Source Sans Pro", sans-serif;
@@ -20,7 +20,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-size: 38px;
+  font-size: 36px;
   font-weight: 700;
   font-family: "Source Sans Pro", sans-serif;
 }
@@ -342,6 +342,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 .profile-wrapper .btn i {
   vertical-align: middle;
   margin-right: 5px;
+}
+
+.section-padding {
+  background: rgb(223,103,140);
 }
 
 .about-profile {
